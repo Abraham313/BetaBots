@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	
+}
+
+p {
+}
+
+#container {
+	display : table-row;
+}
+
+.cell {
+	display : table-cell;
+}
+
+aside {
+	width: 20%;
+	min-width : 120px;
+}
