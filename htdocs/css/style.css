@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	
+}
+
+p {
+}
+
+.cell {
+	display : table-cell;
+}
+
+header {
+	text-align : center;
+}
+	
+section {
+	display : table-row;
+}
+
+article {
+	width: 30%;
+	vertical-align : top;
+	background : #0070c0;
+}
+
+/* COLOURS */
+header {
+	background : #0070c0;
+}
+
+article {
+	background : #0070c0;
+}
+
+/* IMAGES */
+#BetaBots_Logo {
+	width: 220px;
+	height : auto;
+}
+#BetaBots_DriveBase {
+	width : 400px;
+	height : auto;
+}
